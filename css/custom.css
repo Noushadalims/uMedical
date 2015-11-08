@@ -1,0 +1,128 @@
+.login-error{
+	width: 365px;
+	margin: 10px auto;
+	display: none;
+}
+
+
+.locked-item{
+	width: 150px;
+	display: inline-block;
+}
+
+.patent-title{
+	padding:6px 12px;
+}
+
+.patent-name{
+	width: 300px;
+	display: inline-block;
+}
+
+.dob-css{
+	display: inline-block;	
+	width: 200px !important;
+}
+
+.change-password{
+	width:400px;
+	margin: 0 auto;
+}
+
+#doctorSuggest{
+	display: none;
+	z-index: 10;
+}
+
+.age-css{
+	display: inline-block;
+	width: 100px;
+}
+
+.registration input{
+	display: inline-block;
+
+}
+
+.investigation-css{
+	width: 500px;
+}
+
+.pincode-css{
+	width: 100px;
+}
+
+.country-css{
+	width: 200px;
+}
+
+.phone-css{
+	width: 50%;
+}
+
+.mobile-css{
+	width: 40%;
+}
+
+.investigation-amount-css{
+	width: 100px;
+}
+
+.investigation-suggest{
+	position: absolute;
+	width: 500px;
+	height: auto;
+	border: 1px solid #CCC;
+	display: none;
+	background: #ffffff;
+}
+
+.investigation-suggest li {
+    list-style: none;
+    padding: 5px 0px 5px 10px;
+}
+
+.investigation-suggest li:hover {
+    background: #ccc;
+    cursor: pointer;
+}
+
+.investigation-suggest-data{
+	text-decoration: none;
+	display: block;
+}
+
+.display-username{
+	text-transform: capitalize;
+}
+
+
+
+#investigationTable td{
+	vertical-align: middle;
+}
+
+.content-header h1{
+	text-align: center;
+}
+
+.create-visitor{
+	width: 900px;
+	margin: 0 auto;
+}
+
+
+div#SuccessMsg {
+display: inline-block;
+position: absolute;
+float: right;
+right: 30px;
+top: 74px;
+display: none;
+}
+
+.investigation-display {
+width: 700px;
+margin: 0 auto;
+
+}
